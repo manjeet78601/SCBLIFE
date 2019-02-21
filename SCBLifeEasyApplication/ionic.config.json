@@ -1,0 +1,9 @@
+{
+    "name": "SCBLife",
+    "integrations": {
+        "cordova": {}
+    },
+    "type": "ionic-angular"
+
+
+}
